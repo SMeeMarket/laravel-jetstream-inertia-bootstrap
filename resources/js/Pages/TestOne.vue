@@ -1,6 +1,6 @@
 <template>
     <div class="bg-info">
-        <Link href="test-two" class="btn btn-danger">to Two</Link>
+        <Link href="test-one" class="btn btn-danger">to Two</Link>
         <h1 class="text-primary">Test One Component</h1>
     </div>
 </template>
